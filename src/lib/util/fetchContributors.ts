@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import { dummyData } from '$build/dummyContribData';
+import { dummyData } from '../../build/dummyContribData';
 
 export interface Contributor {
 	avatar: string;
